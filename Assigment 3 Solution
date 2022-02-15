@@ -1,0 +1,38 @@
+Question 1
+
+Enter A Sentence:-repeat the word repeat
+{'repeat': 2, 'the': 1, 'word': 1}
+completed
+
+Question 2
+
+Enter the month:-06
+Enter The Date:-12
+Enter the Year:-2003
+Date:- 12 / 6 / 2003
+Next Date:- 13 / 6 / 2003
+Completed
+
+Question 3
+
+[(1, 1), (2, 4), (3, 9), (4, 16), (5, 25), (6, 36), (7, 49), (8, 64), (9, 81), (10, 100)]
+Compeleted
+
+Question 4
+
+Enter A Number Between 4 And 10 Including Them:-3
+Fail
+Competed
+
+Question 4
+
+ ABCDEFGHIJK
+  ABCDEFGHI
+   ABCDEFG
+    ABCDE
+     ABC
+      A
+Compeleted
+
+Question 4
+
