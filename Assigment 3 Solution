@@ -1,0 +1,137 @@
+Question 1
+
+Enter A Sentence:-repeat the word repeat
+{'repeat': 2, 'the': 1, 'word': 1}
+completed
+
+Question 2
+
+Enter the month:-06
+Enter The Date:-12
+Enter the Year:-2003
+Date:- 12 / 6 / 2003
+Next Date:- 13 / 6 / 2003
+Completed
+
+Question 3
+
+[(1, 1), (2, 4), (3, 9), (4, 16), (5, 25), (6, 36), (7, 49), (8, 64), (9, 81), (10, 100)]
+Compeleted
+
+Question 4
+
+Enter A Number Between 4 And 10 Including Them:-3
+Fail
+Competed
+
+Question 4
+
+ ABCDEFGHIJK
+  ABCDEFGHI
+   ABCDEFG
+    ABCDE
+     ABC
+      A
+Compeleted
+
+Question 6
+
+Oestion 6(a)
+
+Enter The SID (A number):-031
+Enter Your Name:-aaa
+give a letter y or n:y
+Enter The SID (A number):-032
+Enter Your Name:-bbb
+give a letter y or n:n
+The required dictionary-- {31: 'aaa', 32: 'bbb'}
+The list will be used in further parts--
+The required list-- [(31, 'aaa'), (32, 'bbb')]
+Compeleted
+
+Question 6(b)
+
+Previous Dictionary:-
+{31: 'aaa', 32: 'bbb'}
+Exchanged the key value pair but not sorted yet:-
+{'aaa': 31, 'bbb': 32}
+The unsorted list:-
+[('aaa', 31), ('bbb', 32)]
+The sorted list:-
+[('aaa', 31), ('bbb', 32)]
+The sorted dictionary:-
+{'aaa': 31, 'bbb': 32}
+Dictionary sorted on the basis of name:-
+{31: 'aaa', 32: 'bbb'}
+Compelted
+
+Question 6(c)
+
+The list We have:-
+[(31, 'aaa'), (32, 'bbb')]
+Sorted List:-
+[(31, 'aaa'), (32, 'bbb')]
+Sorted dictionary based on SID:- {31: 'aaa', 32: 'bbb'}
+Compeleted
+
+Question 6(d)
+
+Search SID:- 032
+Name:-bbb
+completed
+
+Question 7
+
+Enter First Number:- 21
+Enter Second Number:- 22
+[21, 22, 43]
+Enter y to Continue or n to Stop:- y
+[21, 22, 43, 65]
+Enter y to Continue or n to Stop:- y
+[21, 22, 43, 65, 108]
+Enter y to Continue or n to Stop:- y
+[21, 22, 43, 65, 108, 173]
+Enter y to Continue or n to Stop:- y
+[21, 22, 43, 65, 108, 173, 281]
+Enter y to Continue or n to Stop:- y
+[21, 22, 43, 65, 108, 173, 281, 454]
+Enter y to Continue or n to Stop:- y
+[21, 22, 43, 65, 108, 173, 281, 454, 735]
+Enter y to Continue or n to Stop:- n
+list of fibonacci series:-
+[21, 22, 43, 65, 108, 173, 281, 454, 735]
+
+Average:-
+211.33333333333334
+Completed
+
+
+Question 8
+
+
+Question 8(a)
+{1, 3, 5, 6, 8}
+Completed
+
+Question 8(b)
+
+{3, 6, 8, 9, 13, 17}
+Completed
+
+Question 8(c)
+
+{1, 2, 4, 5}
+Compeleted
+
+Question 8(d)
+
+{6, 7, 8, 9, 10}
+Compelted
+
+Question 8(e)
+
+{10, 7}
+
+*******************************************************************END******************************************************************************
+
+
